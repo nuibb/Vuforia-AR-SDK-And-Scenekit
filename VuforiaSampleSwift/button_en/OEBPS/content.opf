@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="3.0" unique-identifier="bookid" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <meta name="generator" content="Adobe InDesign 11.2" />
+    <meta property="ibooks:specified-fonts">true</meta>
+    <dc:title>Juke_Buttons_eQR16E-0F15E0E_August_2016</dc:title>
+    <dc:date>2016-09-30T14:15:49Z</dc:date>
+    <dc:language>en-US</dc:language>
+    <meta property="dcterms:modified">2016-09-30T16:20:35Z</meta>
+    <dc:identifier id="bookid">urn:uuid:f2ce6947-debf-4279-b401-327e3595c848</dc:identifier>
+    <meta name="Sigil version" content="0.9.6" />
+  </metadata>
+  <manifest>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-1" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-2" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-3" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-4" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-5" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-6" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-7" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-8" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-8.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-9" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-9.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-10" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-11" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-12" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-13" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-14" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-15" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-16" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-17" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-17.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-18" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-18.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-19" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-19.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-20" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-20.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-21" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-21.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-22" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-22.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-23" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-23.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-24" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-24.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-25" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-25.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-26" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-26.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-27" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-27.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-28" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-28.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-29" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-29.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-30" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-30.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-31" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-31.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-32" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-32.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-33" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-33.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-34" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-34.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-35" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-35.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-36" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-36.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-37" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-37.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-38" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-38.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-39" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-39.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-40" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-40.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-41" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-41.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-42" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-42.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-43" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-43.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-44" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-44.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-45" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-45.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-46" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-46.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-47" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-47.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-48" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-48.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-49" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-49.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-50" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-50.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-51" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-51.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-52" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-52.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-53" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-53.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-54" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-54.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-55" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-55.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-56" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-56.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-57" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-57.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-58" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-58.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-59" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-59.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-60" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-60.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-61" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-61.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-62" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-62.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-63" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-63.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-64" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-64.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-65" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-65.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-66" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-66.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-67" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-67.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-68" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-68.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-69" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-69.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-70" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-70.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-71" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-71.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-72" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-72.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-73" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-73.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-74" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-74.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-75" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-75.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-76" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-76.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-77" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-77.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-78" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-78.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-79" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-79.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-80" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-80.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-81" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-81.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-82" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-82.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-83" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-83.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-84" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-84.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Juke_Buttons_eQR16E-0F15E0E_August_2016-85" href="Text/Juke_Buttons_eQR16E-0F15E0E_August_2016-85.xhtml" media-type="application/xhtml+xml"/>
+    <item id="call" href="Text/call.xhtml" media-type="application/xhtml+xml"/>
+    <item id="driver" href="Text/driver.xhtml" media-type="application/xhtml+xml"/>
+    <item id="back" href="Text/back.xhtml" media-type="application/xhtml+xml"/>
+
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="toc" href="Text/toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="eQRG_stylesheets.css" href="Styles/eQRG_stylesheets.css" media-type="text/css"/>
+    <item id="Arial-BoldItalicMT.ttf" href="Fonts/Arial-BoldItalicMT.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="Arial-BoldMT.ttf" href="Fonts/Arial-BoldMT.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="ArialMT.ttf" href="Fonts/ArialMT.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="Wingdings-Regular.ttf" href="Fonts/Wingdings-Regular.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="x1.png" href="Images/1.png" media-type="image/png"/>
+    <item id="x2WD_4WD.png" href="Images/2WD_4WD.png" media-type="image/png"/>
+    <item id="Audio1.png" href="Images/Audio1.png" media-type="image/png"/>
+    <item id="Audio_4.png" href="Images/Audio_4.png" media-type="image/png"/>
+    <item id="Auto_OFF.png" href="Images/Auto_OFF.png" media-type="image/png"/>
+    <item id="Auto_OFF2.png" href="Images/Auto_OFF2.png" media-type="image/png"/>
+    <item id="BABU0001.png" href="Images/BABU0001.png" media-type="image/png"/>
+    <item id="CABU0001.png" href="Images/CABU0001.png" media-type="image/png"/>
+    <item id="Cancel_Res_Set.png" href="Images/Cancel_Res_Set.png" media-type="image/png"/>
+    <item id="Cancel_Res_Set1.png" href="Images/Cancel_Res_Set1.png" media-type="image/png"/>
+    <item id="CDAU0001.png" href="Images/CDAU0001.png" media-type="image/png"/>
+    <item id="DANI0001.png" href="Images/DANI0001.png" media-type="image/png"/>
+    <item id="Day-Night.png" href="Images/Day-Night.png" media-type="image/png"/>
+    <item id="EJBU0001.png" href="Images/EJBU0001.png" media-type="image/png"/>
+    <item id="Enter.png" href="Images/Enter.png" media-type="image/png"/>
+    <item id="Enter1.png" href="Images/Enter1.png" media-type="image/png"/>
+    <item id="Enter2.png" href="Images/Enter2.png" media-type="image/png"/>
+    <item id="F15-Roof.png" href="Images/F15-Roof.png" media-type="image/png"/>
+    <item id="F15_eQRG_1.png" href="Images/F15_eQRG_1.png" media-type="image/png"/>
+    <item id="F15_eQRG_14.png" href="Images/F15_eQRG_14.png" media-type="image/png"/>
+    <item id="F15_eQRG_15.png" href="Images/F15_eQRG_15.png" media-type="image/png"/>
+    <item id="F15_eQRG_16.png" href="Images/F15_eQRG_16.png" media-type="image/png"/>
+    <item id="F15_eQRG_18.png" href="Images/F15_eQRG_18.png" media-type="image/png"/>
+    <item id="F15_eQRG_19.png" href="Images/F15_eQRG_19.png" media-type="image/png"/>
+    <item id="F15_eQRG_2.png" href="Images/F15_eQRG_2.png" media-type="image/png"/>
+    <item id="F15_eQRG_20.png" href="Images/F15_eQRG_20.png" media-type="image/png"/>
+    <item id="F15_eQRG_21.png" href="Images/F15_eQRG_21.png" media-type="image/png"/>
+    <item id="F15_eQRG_22.png" href="Images/F15_eQRG_22.png" media-type="image/png"/>
+    <item id="F15_eQRG_23.png" href="Images/F15_eQRG_23.png" media-type="image/png"/>
+    <item id="F15_eQRG_24.png" href="Images/F15_eQRG_24.png" media-type="image/png"/>
+    <item id="F15_eQRG_25.png" href="Images/F15_eQRG_25.png" media-type="image/png"/>
+    <item id="F15_eQRG_26.png" href="Images/F15_eQRG_26.png" media-type="image/png"/>
+    <item id="F15_eQRG_27.png" href="Images/F15_eQRG_27.png" media-type="image/png"/>
+    <item id="F15_eQRG_28.png" href="Images/F15_eQRG_28.png" media-type="image/png"/>
+    <item id="F15_eQRG_29.png" href="Images/F15_eQRG_29.png" media-type="image/png"/>
+    <item id="F15_eQRG_30.png" href="Images/F15_eQRG_30.png" media-type="image/png"/>
+    <item id="F15_eQRG_31.png" href="Images/F15_eQRG_31.png" media-type="image/png"/>
+    <item id="F15_eQRG_32.png" href="Images/F15_eQRG_32.png" media-type="image/png"/>
+    <item id="F15_eQRG_33.png" href="Images/F15_eQRG_33.png" media-type="image/png"/>
+    <item id="F15_eQRG_34.png" href="Images/F15_eQRG_34.png" media-type="image/png"/>
+    <item id="F15_eQRG_35.png" href="Images/F15_eQRG_35.png" media-type="image/png"/>
+    <item id="F15_eQRG_36.png" href="Images/F15_eQRG_36.png" media-type="image/png"/>
+    <item id="F15_eQRG_37.png" href="Images/F15_eQRG_37.png" media-type="image/png"/>
+    <item id="F15_eQRG_39.png" href="Images/F15_eQRG_39.png" media-type="image/png"/>
+    <item id="F15_eQRG_4.png" href="Images/F15_eQRG_4.png" media-type="image/png"/>
+    <item id="F15_eQRG_40.png" href="Images/F15_eQRG_40.png" media-type="image/png"/>
+    <item id="F15_eQRG_5.png" href="Images/F15_eQRG_5.png" media-type="image/png"/>
+    <item id="F15_eQRG_6.png" href="Images/F15_eQRG_6.png" media-type="image/png"/>
+    <item id="F15_eQRG_7.png" href="Images/F15_eQRG_7.png" media-type="image/png"/>
+    <item id="F15_eQRG_8.png" href="Images/F15_eQRG_8.png" media-type="image/png"/>
+    <item id="F15_eQRG_81.png" href="Images/F15_eQRG_81.png" media-type="image/png"/>
+    <item id="F15_eQRG_810.png" href="Images/F15_eQRG_810.png" media-type="image/png"/>
+    <item id="F15_eQRG_811.png" href="Images/F15_eQRG_811.png" media-type="image/png"/>
+    <item id="F15_eQRG_812.png" href="Images/F15_eQRG_812.png" media-type="image/png"/>
+    <item id="F15_eQRG_813.png" href="Images/F15_eQRG_813.png" media-type="image/png"/>
+    <item id="F15_eQRG_82.png" href="Images/F15_eQRG_82.png" media-type="image/png"/>
+    <item id="F15_eQRG_83.png" href="Images/F15_eQRG_83.png" media-type="image/png"/>
+    <item id="F15_eQRG_84.png" href="Images/F15_eQRG_84.png" media-type="image/png"/>
+    <item id="F15_eQRG_85.png" href="Images/F15_eQRG_85.png" media-type="image/png"/>
+    <item id="F15_eQRG_86.png" href="Images/F15_eQRG_86.png" media-type="image/png"/>
+    <item id="F15_eQRG_87.png" href="Images/F15_eQRG_87.png" media-type="image/png"/>
+    <item id="F15_eQRG_88.png" href="Images/F15_eQRG_88.png" media-type="image/png"/>
+    <item id="F15_eQRG_89.png" href="Images/F15_eQRG_89.png" media-type="image/png"/>
+    <item id="F15_eQRG_9.png" href="Images/F15_eQRG_9.png" media-type="image/png"/>
+    <item id="F15_eQRG_91.png" href="Images/F15_eQRG_91.png" media-type="image/png"/>
+    <item id="F15_eQRG_910.png" href="Images/F15_eQRG_910.png" media-type="image/png"/>
+    <item id="F15_eQRG_911.png" href="Images/F15_eQRG_911.png" media-type="image/png"/>
+    <item id="F15_eQRG_92.png" href="Images/F15_eQRG_92.png" media-type="image/png"/>
+    <item id="F15_eQRG_93.png" href="Images/F15_eQRG_93.png" media-type="image/png"/>
+    <item id="F15_eQRG_94.png" href="Images/F15_eQRG_94.png" media-type="image/png"/>
+    <item id="F15_eQRG_95.png" href="Images/F15_eQRG_95.png" media-type="image/png"/>
+    <item id="F15_eQRG_96.png" href="Images/F15_eQRG_96.png" media-type="image/png"/>
+    <item id="F15_eQRG_97.png" href="Images/F15_eQRG_97.png" media-type="image/png"/>
+    <item id="F15_eQRG_98.png" href="Images/F15_eQRG_98.png" media-type="image/png"/>
+    <item id="F15_eQRG_99.png" href="Images/F15_eQRG_99.png" media-type="image/png"/>
+    <item id="Image29550.png" href="Images/Image29550.png" media-type="image/png"/>
+    <item id="Image30245.png" href="Images/Image30245.png" media-type="image/png"/>
+    <item id="MABU0001.png" href="Images/MABU0001.png" media-type="image/png"/>
+    <item id="NAIN0001.png" href="Images/NAIN0001.png" media-type="image/png"/>
+    <item id="POON0001.png" href="Images/POON0001.png" media-type="image/png"/>
+    <item id="PRESET_STATION_BUTTONS.png" href="Images/PRESET_STATION_BUTTONS.png" media-type="image/png"/>
+    <item id="SDCA0001.png" href="Images/SDCA0001.png" media-type="image/png"/>
+    <item id="SEPR0001.png" href="Images/SEPR0001.png" media-type="image/png"/>
+    <item id="Set.png" href="Images/Set.png" media-type="image/png"/>
+    <item id="Start-Stop.png" href="Images/Start-Stop.png" media-type="image/png"/>
+    <item id="symbol_telephone_down.png" href="Images/symbol_telephone_down.png" media-type="image/png"/>
+    <item id="TEAN0002.png" href="Images/TEAN0002.png" media-type="image/png"/>
+    <item id="Tell.png" href="Images/Tell.png" media-type="image/png"/>
+    <item id="Tel_up.png" href="Images/Tel_up.png" media-type="image/png"/>
+    <item id="Temp.png" href="Images/Temp.png" media-type="image/png"/>
+    <item id="ZOSC0001.png" href="Images/ZOSC0001.png" media-type="image/png"/>
+    <item id="idGeneratedStyles.css" href="Styles/idGeneratedStyles.css" media-type="text/css"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-1"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-2"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-3"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-4"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-5"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-6"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-7"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-8"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-9"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-10"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-11"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-12"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-13"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-14"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-15"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-16"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-17"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-18"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-19"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-20"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-21"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-22"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-23"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-24"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-25"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-26"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-27"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-28"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-29"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-30"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-31"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-32"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-33"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-34"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-35"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-36"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-37"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-38"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-39"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-40"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-41"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-42"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-43"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-44"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-45"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-46"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-47"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-48"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-49"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-50"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-51"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-52"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-53"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-54"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-55"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-56"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-57"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-58"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-59"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-60"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-61"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-62"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-63"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-64"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-65"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-66"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-67"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-68"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-69"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-70"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-71"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-72"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-73"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-74"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-75"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-76"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-77"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-78"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-79"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-80"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-81"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-82"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-83"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-84"/>
+    <itemref idref="Juke_Buttons_eQR16E-0F15E0E_August_2016-85"/>
+    <itemref idref="call"/>
+    <itemref idref="driver"/>
+    <itemref idref="back"/>
+  </spine>
+</package>

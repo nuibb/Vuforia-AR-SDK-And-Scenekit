@@ -1,0 +1,47 @@
+body { margin: 1em }
+.icon>img { width: auto; height: 1em }
+.icon-075em>img { width: auto; height: .75em }
+.CalloutOne { margin-right: 0.2em; font-size: 90%!important; background-color: rgb(196,23,50); color: white!important; font-family: ArialBold; font-weight: bold; padding-top: 0.3em; padding-bottom: 0.3em; padding-left: 0.6em; padding-right: 0.6em; border-radius: 50%; margin-right: 6px; }
+.CalloutOneInText { margin-right: 0.2em; font-size: 90%!important; background-color: rgb(196,23,50); color: white!important; font-family: ArialBold; font-weight: bold; padding-top: 0.2em; padding-bottom: 0.2em; padding-left: 0.45em; padding-right: 0.45em; border-radius: 50%; margin-right: 0px; }
+.CalloutTwo { margin-right: 0.2em; font-size: 90%!important; background-color: rgb(196,23,50); color: white!important; font-family: ArialBold; font-weight: bold; padding-top: 0.35em; padding-bottom: 0.35em; padding-left: 0.36em; padding-right: 0.36em; border-radius: 50%; margin-right: 6px; }
+.CalloutTwoInText { margin-right: 0.2em; font-size: 90%!important; background-color: rgb(196,23,50); color: white!important; font-family: ArialBold; font-weight: bold; padding-top: 0.3em; padding-bottom: 0.3em; padding-left: 0.3em; padding-right: 0.3em; border-radius: 50%; margin-right: 0px; }
+p.H1 { padding-left: .2em; padding-bottom:.1em; padding-top:.1em; font-size: 1.2em; font-family: MetaProBold; color: white; background-color: rgb(196,23,50); margin-bottom: .5em }
+p.H2 { margin-top: 1.5em }
+p.NumberedList { line-height: 1.5; text-indent: -2.4em; margin-left: 2.4em }
+p.NumberedListNormal { line-height: 1.5; text-indent: -1.1em; margin-left: 2em; }
+p.NoteTextSpaceBeforeAndAfter { text-indent: -2.7em; margin-left: 4em; margin-right: 2em; }
+col:first-child { width: 10% }
+td.Basic-Table { border-width: 0; padding: 0 }
+td.Basic-Table { padding-bottom: 1em }
+table.TMPSTable { border-width: 0; width: 100%; margin-top: 2em }
+thead>tr>td.TMPSTable { border-top-width: 0 }
+td.TMPSTable1stCol { border-left-width: 0}
+td.TMPSTable3rdCol { border-right-width: 0}
+.TMPSTableSmall, .FWDTableSmall { display: none }
+table.FWDTable, table.Basic-Table, table.TMPSTable { border-width: 0; width: 100%; margin-top: 2em; margin-bottom: 1em }
+thead>tr>td.FWDTable { border-top-width: 0 }
+td.FWDTable-head-col1, td.TMPSTable-head-col1 { border-left-width: 0; border-top-width: 0 }
+td.FWDTable-head-col2, td.FWDTable-head-col3, td.TMPSTable-head-col2 { border-top-width: 0 }
+td.FWDTable-head-col4, td.TMPSTable-head-col3 { border-right-width: 0; border-top-width: 0 }
+td.FWDTable-col4 { border-right-width: 0; width: 40% }
+td.FWDTable-col1 { border-left-width: 0; width: 10% }
+td.FWDTable-col2 { width: 40% }
+td.FWDTable-col1 { width: 10% }
+p.Callouts { margin-left: 2.5em; text-indent: -2.2em }
+
+
+@media screen and (max-width: 640px) {
+	.imageBig>img { width: 100%; height: auto }
+	li.Bullets { margin-left: -1em }
+	p.H1 { font-size: 1em }
+	col:first-child { width: 50% }
+	.TMPSTable, .FWDTable { display: none }
+	p.TableHeader { margin-top: 1em;}
+	table.FWDTableSmall, table.TMPSTableSmall { border-width: 0 }
+	.FWDTableSmall, .TMPSTableSmall { display: block; border-width: 0; margin-bottom: 2em }
+	tr.FWDTableSmall, tr.TMPSTableSmall { border-width: 0}
+	td.FWDTableSmall, td.TMPSTableSmall { border-left-width: 0; width: 100%; border-right-width: 0; border-top: 6px solid grey; margin-top: 2em; margin-bottom: 0.5em; border-bottom: 1px solid grey; padding-bottom: 1em }
+	.TableHeader img { height: 58px; width: auto; margin-bottom: -.4em; margin-top: 1em}
+	p.NumberedList { line-height: 1.5; text-indent: -1.1em; margin-left: 2em; }
+	p.Callouts { text-indent: -2.3em }
+}

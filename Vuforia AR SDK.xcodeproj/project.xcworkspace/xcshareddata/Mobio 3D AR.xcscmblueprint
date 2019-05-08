@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "67362E1CA7C111981A8293C13017FEA2CAB7CDF9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0B6126B9133A546951305B8AB364B42014253967" : 9223372036854775807,
+    "67362E1CA7C111981A8293C13017FEA2CAB7CDF9" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "9B4B7C17-50ED-480A-9616-3C73CD441605",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0B6126B9133A546951305B8AB364B42014253967" : "..\/NISSAN-DRIVER-GUIDE",
+    "67362E1CA7C111981A8293C13017FEA2CAB7CDF9" : "VuforiaScenekit-SimultaneousDetection\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Mobio 3D AR",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Mobio 3D AR.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "192.168.1.15:nurul.islam\/NISSAN-DRIVER-GUIDE.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0B6126B9133A546951305B8AB364B42014253967"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "192.168.1.15:nurul.islam\/VuforiaScenekit3D.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "67362E1CA7C111981A8293C13017FEA2CAB7CDF9"
+    }
+  ]
+}

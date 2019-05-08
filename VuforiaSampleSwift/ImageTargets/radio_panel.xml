@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="radio_panel_middle_17" size="1.000000 1.133110" />
+    <ImageTarget name="radio_panel_right_6" size="0.500000 0.390411" />
+    <ImageTarget name="radio_panel_right_4" size="0.500000 0.527000" />
+    <ImageTarget name="radio_panel_right_5" size="0.500000 0.534926" />
+    <ImageTarget name="radio_panel_right_3" size="0.500000 0.543269" />
+    <ImageTarget name="radio_panel_right_2" size="0.500000 0.554264" />
+    <ImageTarget name="radio_panel_right_1" size="0.500000 0.537214" />
+    <ImageTarget name="radio_panel_left_6" size="0.500000 0.407143" />
+    <ImageTarget name="radio_panel_left_5" size="0.500000 0.491554" />
+    <ImageTarget name="radio_panel_left_4" size="0.500000 0.445500" />
+    <ImageTarget name="radio_panel_left_3" size="0.500000 0.504464" />
+    <ImageTarget name="radio_panel_left_2" size="0.500000 0.449686" />
+    <ImageTarget name="radio_panel_left_1" size="0.500000 0.466060" />
+  </Tracking>
+</QCARConfig>

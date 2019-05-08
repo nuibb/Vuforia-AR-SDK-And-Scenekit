@@ -1,0 +1,685 @@
+@font-face {
+    font-family: Arial;
+    font-style: italic;
+    font-weight: bold;
+    src: url(../Fonts/Arial-BoldItalicMT.ttf)
+    }
+@font-face {
+    font-family: Arial;
+    font-style: oblique;
+    font-weight: bold;
+    src: url(../Fonts/Arial-BoldItalicMT.ttf)
+    }
+@font-face {
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    src: url(../Fonts/Arial-BoldMT.ttf)
+    }
+@font-face {
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    src: url(../Fonts/ArialMT.ttf)
+    }
+@font-face {
+    font-family: Wingdings;
+    font-style: normal;
+    font-weight: normal;
+    src: url(../Fonts/Wingdings-Regular.ttf)
+    }
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+    margin: 0;
+    padding: 0;
+    border-width: 0
+    }
+body {
+    -epub-hyphens: auto
+    }
+@page {
+    margin: 0 0 0 0
+    }
+div.Basic-Text-Frame {
+    border-style: solid
+    }
+p.Body, li.Body {
+    color: #000;
+    font-family: Arial, sans-serif;
+    font-size: 0.833em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 6px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    orphans: 1;
+    page-break-after: auto;
+    page-break-before: auto;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0;
+    text-transform: none;
+    widows: 1
+    }
+p.BodyMargin {
+    color: #000;
+    font-family: Arial, sans-serif;
+    font-size: 0.833em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 6px;
+    margin-left: 25px;
+    margin-right: 0;
+    margin-top: 0;
+    orphans: 1;
+    page-break-after: auto;
+    page-break-before: auto;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0;
+    text-transform: none;
+    widows: 1
+    }
+p.BodySpaceBefore {
+    color: #000;
+    font-family: Arial, sans-serif;
+    font-size: 0.833em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 6px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 12px;
+    orphans: 1;
+    page-break-after: auto;
+    page-break-before: auto;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0;
+    text-transform: none;
+    widows: 1
+    }
+li.Bullets {
+    color: #000;
+    font-family: Arial, sans-serif;
+    font-size: 0.833em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    list-style-position: outside;
+    list-style-type: disc;
+    margin-bottom: 6px;
+    margin-left: 18px;
+    margin-right: 0;
+    margin-top: 0;
+    orphans: 1;
+    page-break-after: auto;
+    page-break-before: auto;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0;
+    text-transform: none;
+    widows: 1
+    }
+li.BulletsLevel2 {
+    color: #000;
+    font-family: Arial, sans-serif;
+    font-size: 0.833em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    list-style-position: outside;
+    margin-bottom: 6px;
+    margin-left: 36px;
+    margin-right: 0;
+    margin-top: 0;
+    orphans: 1;
+    page-break-after: auto;
+    page-break-before: auto;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0;
+    text-transform: none;
+    widows: 1
+    }
+p.H1 {
+    color: #c41732;
+    font-family: Arial, sans-serif;
+    font-size: 1em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 6px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    orphans: 1;
+    page-break-after: auto;
+    page-break-before: auto;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0;
+    text-transform: uppercase;
+    widows: 1
+    }
+p.H2 {
+    color: #c41732;
+    font-family: Arial, sans-serif;
+    font-size: 0.833em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 6px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    orphans: 1;
+    page-break-after: auto;
+    page-break-before: auto;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0;
+    text-transform: uppercase;
+    widows: 1
+    }
+p.H3 {
+    color: #000;
+    font-family: Arial, sans-serif;
+    font-size: 0.833em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 6px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 12px;
+    orphans: 1;
+    page-break-after: auto;
+    page-break-before: auto;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0;
+    text-transform: none;
+    widows: 1
+    }
+p.H4 {
+    color: #aeafb6;
+    font-family: Arial, sans-serif;
+    font-size: 0.5em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 6px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 36px;
+    orphans: 1;
+    page-break-after: auto;
+    page-break-before: auto;
+    text-align: right;
+    text-decoration: none;
+    text-indent: 0;
+    text-transform: none;
+    widows: 1
+    }
+p.Image {
+    color: #000;
+    font-family: Arial, sans-serif;
+    font-size: 0.833em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 36px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 36px;
+    orphans: 1;
+    page-break-after: auto;
+    page-break-before: auto;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0;
+    text-transform: none;
+    widows: 1
+    }
+p.NoteTextSpaceBeforeAndAfter {
+    color: #2a2a2a;
+    font-family: Arial, sans-serif;
+    font-size: 0.833em;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 36px;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 36px;
+    orphans: 1;
+    page-break-after: auto;
+    page-break-before: auto;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0;
+    text-transform: none;
+    widows: 1
+    }
+p.NumberedList {
+    color: #000;
+    font-family: Arial, sans-serif;
+    font-size: 0.833em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 6px;
+    margin-left: 12px;
+    margin-right: 0;
+    margin-top: 0;
+    orphans: 1;
+    page-break-after: auto;
+    page-break-before: auto;
+    text-align: left;
+    text-decoration: none;
+    text-indent: -11px;
+    text-transform: none;
+    widows: 1
+    }
+span.Bold {
+    font-style: normal;
+    font-weight: bold
+    }
+li.ParaOverride-1 {
+    font-size: 1em;
+    list-style-position: outside;
+    margin-left: 18px;
+    text-indent: 0
+    }
+span.CharOverride-1 {
+    font-family: Wingdings, sans-serif;
+    font-style: normal;
+    font-weight: normal
+    }
+span.CharOverride-2 {
+    font-size: 58%;
+    vertical-align: super
+    }
+p._idGenParaOverride-1 {
+    font-size: 1em;
+    margin-left: 7px
+    }
+li._idGenParaOverride-2 {
+    font-size: 1em;
+    margin-left: 18px
+    }
+span._idGenCharOverride-1 {
+    font-family: Arial
+    }
+#_idContainer093 {
+    display: inline-block;
+    height: 9px;
+    width: 64px
+    }
+img._idGenObjectAttribute-1 {
+    height: 174px;
+    width: 165px
+    }
+img._idGenObjectAttribute-2 {
+    height: 99px;
+    width: 171px
+    }
+img._idGenObjectAttribute-3 {
+    height: 95px;
+    width: 170px
+    }
+img._idGenObjectAttribute-4 {
+    height: 72px;
+    width: 185px
+    }
+img._idGenObjectAttribute-5 {
+    height: 68px;
+    width: 172px
+    }
+img._idGenObjectAttribute-6 {
+    height: 91px;
+    width: 173px
+    }
+img._idGenObjectAttribute-7 {
+    height: 90px;
+    width: 155px
+    }
+img._idGenObjectAttribute-8 {
+    height: 145px;
+    width: 154px
+    }
+img._idGenObjectAttribute-9 {
+    height: 88px;
+    width: 138px
+    }
+img._idGenObjectAttribute-10 {
+    height: 89px;
+    width: 154px
+    }
+img._idGenObjectAttribute-11 {
+    height: 92px;
+    width: 143px
+    }
+img._idGenObjectAttribute-12 {
+    height: 97px;
+    width: 155px
+    }
+img._idGenObjectAttribute-13 {
+    height: 94px;
+    width: 163px
+    }
+img._idGenObjectAttribute-14 {
+    height: auto;
+    width: 100%;
+    max-width: 452px;
+    max-height: 100px
+    }
+img._idGenObjectAttribute-15 {
+    height: auto;
+    width: 100%;
+    max-width: 299px;
+    max-height: 187px
+    }
+img._idGenObjectAttribute-16 {
+    height: 110px;
+    width: 116px
+    }
+img._idGenObjectAttribute-17 {
+    height: 82px;
+    width: 140px
+    }
+img._idGenObjectAttribute-18 {
+    height: 90px;
+    width: 140px
+    }
+img._idGenObjectAttribute-19 {
+    height: 84px;
+    width: 140px
+    }
+img._idGenObjectAttribute-20 {
+    height: 70px;
+    width: 140px
+    }
+img._idGenObjectAttribute-21 {
+    height: 26px;
+    width: 20px
+    }
+img._idGenObjectAttribute-22 {
+    height: 63px;
+    width: 140px
+    }
+img._idGenObjectAttribute-23 {
+    height: 53px;
+    width: 175px
+    }
+img._idGenObjectAttribute-24 {
+    height: 76px;
+    width: 140px
+    }
+img._idGenObjectAttribute-25 {
+    height: 14px;
+    width: 33px
+    }
+img._idGenObjectAttribute-26 {
+    height: 83px;
+    width: 140px
+    }
+img._idGenObjectAttribute-27 {
+    height: 139px;
+    width: 140px
+    }
+img._idGenObjectAttribute-28 {
+    height: 185px;
+    width: 185px
+    }
+img._idGenObjectAttribute-29 {
+    height: 97px;
+    width: 143px
+    }
+img._idGenObjectAttribute-30 {
+    height: 101px;
+    width: 256px
+    }
+img._idGenObjectAttribute-31 {
+    height: 119px;
+    width: 176px
+    }
+img._idGenObjectAttribute-32 {
+    height: 186px;
+    width: 187px
+    }
+img._idGenObjectAttribute-33 {
+    height: 188px;
+    width: 189px
+    }
+img._idGenObjectAttribute-34 {
+    height: 199px;
+    width: 199px
+    }
+img._idGenObjectAttribute-35 {
+    height: 103px;
+    width: 189px
+    }
+img._idGenObjectAttribute-36 {
+    height: auto;
+    width: 100%;
+    max-width: 339px;
+    max-height: 67px
+    }
+img._idGenObjectAttribute-37 {
+    height: 91px;
+    width: 207px
+    }
+img._idGenObjectAttribute-38 {
+    height: 200px;
+    width: 200px
+    }
+img._idGenObjectAttribute-39 {
+    height: 105px;
+    width: 194px
+    }
+img._idGenObjectAttribute-40 {
+    height: 117px;
+    width: 177px
+    }
+img._idGenObjectAttribute-41 {
+    height: 119px;
+    width: 179px
+    }
+img._idGenObjectAttribute-42 {
+    height: 115px;
+    width: 186px
+    }
+img._idGenObjectAttribute-43 {
+    height: 111px;
+    width: 180px
+    }
+img._idGenObjectAttribute-44 {
+    height: 93px;
+    width: 210px
+    }
+img._idGenObjectAttribute-45 {
+    height: 80px;
+    width: 135px
+    }
+img._idGenObjectAttribute-46 {
+    height: 92px;
+    width: 125px
+    }
+img._idGenObjectAttribute-47 {
+    height: 176px;
+    width: 205px
+    }
+img._idGenObjectAttribute-48 {
+    height: 150px;
+    width: 196px
+    }
+img._idGenObjectAttribute-49 {
+    height: 17px;
+    width: 28px
+    }
+img._idGenObjectAttribute-50 {
+    height: 91px;
+    width: 151px
+    }
+img._idGenObjectAttribute-51 {
+    height: 79px;
+    width: 125px
+    }
+img._idGenObjectAttribute-52 {
+    height: 102px;
+    width: 140px
+    }
+img._idGenObjectAttribute-53 {
+    height: 15px;
+    width: 19px
+    }
+img._idGenObjectAttribute-54 {
+    height: 102px;
+    width: 215px
+    }
+img._idGenObjectAttribute-55 {
+    height: 155px;
+    width: 120px
+    }
+img._idGenObjectAttribute-56 {
+    height: 179px;
+    width: 100px
+    }
+img._idGenObjectAttribute-57 {
+    height: 178px;
+    width: 138px
+    }
+img._idGenObjectAttribute-58 {
+    height: 167px;
+    width: 167px
+    }
+img._idGenObjectAttribute-59 {
+    height: 190px;
+    width: 122px
+    }
+img._idGenObjectAttribute-60 {
+    height: 46px;
+    width: 154px
+    }
+img._idGenObjectAttribute-61 {
+    height: 181px;
+    width: 140px
+    }
+img._idGenObjectAttribute-62 {
+    height: 218px;
+    width: 146px
+    }
+img._idGenObjectAttribute-63 {
+    height: 175px;
+    width: 133px
+    }
+img._idGenObjectAttribute-64 {
+    height: 128px;
+    width: 128px
+    }
+img._idGenObjectAttribute-65 {
+    height: 142px;
+    width: 108px
+    }
+img._idGenObjectAttribute-66 {
+    height: 121px;
+    width: 121px
+    }
+img._idGenObjectAttribute-67 {
+    height: 82px;
+    width: 204px
+    }
+img._idGenObjectAttribute-68 {
+    height: 76px;
+    width: 209px
+    }
+img._idGenObjectAttribute-69 {
+    height: 78px;
+    width: 194px
+    }
+img._idGenObjectAttribute-70 {
+    height: 80px;
+    width: 200px
+    }
+img._idGenObjectAttribute-71 {
+    height: 115px;
+    width: 155px
+    }
+img._idGenObjectAttribute-72 {
+    height: 118px;
+    width: 162px
+    }
+img._idGenObjectAttribute-73 {
+    height: 128px;
+    width: 171px
+    }
+img._idGenObjectAttribute-74 {
+    height: 113px;
+    width: 154px
+    }
+img._idGenObjectAttribute-75 {
+    height: 111px;
+    width: 150px
+    }
+img._idGenObjectAttribute-76 {
+    height: 119px;
+    width: 155px
+    }
+img._idGenObjectAttribute-77 {
+    height: auto;
+    width: 100%;
+    max-width: 285px;
+    max-height: 240px
+    }
+img._idGenObjectAttribute-78 {
+    height: 181px;
+    width: 181px
+    }
+img._idGenObjectAttribute-79 {
+    height: 213px;
+    width: 143px
+    }
+img._idGenObjectAttribute-80 {
+    height: 210px;
+    width: 138px
+    }
+img._idGenObjectAttribute-81 {
+    height: 113px;
+    width: 208px
+    }
+img._idGenObjectAttribute-82 {
+    height: 123px;
+    width: 185px
+    }
+img._idGenObjectAttribute-83 {
+    height: 114px;
+    width: 185px
+    }
+img._idGenObjectAttribute-84 {
+    height: 113px;
+    width: 185px
+    }
+img._idGenObjectAttribute-85 {
+    height: 100px;
+    width: 185px
+    }
+div._idGenObjectLayout-1 {
+    text-align: center
+    }
